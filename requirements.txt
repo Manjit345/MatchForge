@@ -1,0 +1,7 @@
+PyPDF2
+google-genai
+pydantic
+python-dotenv
+sentence-transformers
+scikit-learn
+streamlit
