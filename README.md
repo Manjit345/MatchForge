@@ -3,7 +3,7 @@
 ## Overview
 I think I don't only speak for myself when I say that I come across a job description but I am not sure whether my resume will make it through. A lot of us face this and aren't sure whether to identify and learn the skill gaps mentioned in the job description or just rephrase the existing resume into a new one to fit well with the description. MatchForge is an AI-powered job application assistant that helps candidates understand how well their resume aligns with a job description before they apply. 
 
-![Demo Video](assets/demo.gif)
+<img src="https://raw.githubusercontent.com/Manjit345/job-application-agent/main/assets/demo.gif" alt="coding gif" width="400"/>
 
 
 ## How It Works
